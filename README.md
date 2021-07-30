@@ -1,5 +1,5 @@
 # trendyol-scraper
-A web scraper bot with specific e-commerce website in Turkey. 
+A web scraper bot with specific e-commerce website (www.trendyol.com) in Turkey. 
 
 # Description
 
